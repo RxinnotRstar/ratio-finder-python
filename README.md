@@ -4,6 +4,10 @@
 
 将任意数值对转化为最简整数比的轻量级工具，支持**Tkinter图形界面**与**命令行**双模式运行。
 
+<img width="20%" height="auto" alt="Snipaste_2025-12-03_01-41-09" src="https://github.com/user-attachments/assets/5238c930-f38c-4d4d-9beb-58571d869ef8" /><img width="20%" height="auto" alt="Snipaste_2025-12-03_01-41-28" src="https://github.com/user-attachments/assets/493b3840-2ff8-4801-9323-c80c91bbbded" /><img width="20%" height="auto" alt="Snipaste_2025-12-03_01-41-50" src="https://github.com/user-attachments/assets/44258b8c-b80b-48c7-a18d-49470b5ef7a1" />
+<img width="60%" height="auto" alt="图片" src="https://github.com/user-attachments/assets/9ec749dc-1b58-4217-8898-867b01ce33c4" />
+
+
 ## 功能特点
 
 - **双模式支持**：自动检测环境，优先启动Tkinter GUI，CLI模式作为可靠后备
